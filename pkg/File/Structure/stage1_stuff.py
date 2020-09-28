@@ -2,7 +2,7 @@
 # Python bytecode 3.6 (3379)
 # Decompiled from: Python 3.8.5 (default, Aug 12 2020, 00:00:00) 
 # [GCC 10.2.1 20200723 (Red Hat 10.2.1-1)]
-# Embedded file name: /home/spyrr/dev/cslv/src/pkg/File/Structure/stage1_stuff.py
+# Embedded file name: /home/admin/spyrr/dev/dietsigner/src/pkg/File/Structure/stage1_stuff.py
 """CodeSigner data structures for STAGE1 Secure Images
 
 Copyright (c) Samsung Electronics Co., Ltd. All rights reserved.

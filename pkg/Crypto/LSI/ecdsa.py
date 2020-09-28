@@ -2,7 +2,7 @@
 # Python bytecode 3.6 (3379)
 # Decompiled from: Python 3.8.5 (default, Aug 12 2020, 00:00:00) 
 # [GCC 10.2.1 20200723 (Red Hat 10.2.1-1)]
-# Embedded file name: /home/spyrr/dev/cslv/src/pkg/Crypto/LSI/ecdsa.py
+# Embedded file name: /home/admin/spyrr/dev/dietsigner/src/pkg/Crypto/LSI/ecdsa.py
 """Elliptic Curve Digital Signature Algorithm implementation
 
 This is implemented for only CodeSigner.
